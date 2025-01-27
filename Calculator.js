@@ -13,7 +13,7 @@ function mul(a,b){
 function div(a,b){
     console.log(a/b);
 }
-add(10,20);
+ad(10,20);
 sub(10,20);     
 mul(10,20);
 div(10,20);
